@@ -1,2 +1,2 @@
-# namada
-Namada is a sovereign chain for asset-agnostic private transactions
+# Namada
+Namada is the first release protocol version and the first fractal instance of the [Anoma](https://github.com/anoma/anoma) protocol. Namada is a sovereign proof-of-stake blockchain, using Tendermint BFT consensus, that enables multi-asset private transfers for any native or non-native asset using a multi-asset shielded pool derived from the Sapling circuit. Namada features full IBC protocol support, a natively integrated Ethereum bridge, a modern proof-of-stake system with automatic reward compounding and cubic slashing, and a stake-weighted governance signalling mechanism.
